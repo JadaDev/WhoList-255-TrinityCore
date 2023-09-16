@@ -1,6 +1,6 @@
 # TrinityCore /Who 1-255 Allowance Modification
 
-This modification is intended for TrinityCore. It allows you to disable the level check for certain situations by simply commenting out a few lines of code in the `MiscHandler.cpp` file.
+This modification is intended for TrinityCore. It allows you to disable the level check for who list by simply commenting out a few lines of code in the `MiscHandler.cpp` file.
 
 ## Before Modification
 
